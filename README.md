@@ -1,2 +1,2 @@
-# Proyecto-lua-chelo-y-yo
+# Proyecto-python-chelo-y-yo
 Yiayia
