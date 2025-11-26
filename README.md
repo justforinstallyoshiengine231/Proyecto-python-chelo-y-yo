@@ -1,2 +1,1 @@
-# Proyecto-python-chelo-y-yo
-Yiayia
+Este proyecto esta patrocinado por productos Fernández. 
